@@ -15,7 +15,7 @@ ChIP-sequencing, also known as ChIP-seq, is a method used to analyze protein int
 | **MACS**                            | [MACS](http://liulab.dfci.harvard.edu/MACS/index.html)                        |
 | **ChipAnnotator**                  | In-house ArrayGen Proprietary tool for chip annotation                         |
 | **MEME**                            | [MEME](http://meme.sdsc.edu/meme/cgi-bin/meme.cgi)                            |
-| **TOMTOM**                          | [TOMTOM](http://meme.sdsc.edu/meme/cgi-bin/tomtom.cgi)                        |
+| **TOMTOM**                          | [TOMTOM]([https://meme-suite.org/meme/tools/tomtom)                           |
 | **DAVID**                           | [DAVID](http://david.abcc.ncifcrf.gov)                                        |
 | **GOstat**                          | [GOstat](http://meme.sdsc.edu/meme/cgi-bin/tomtom.cgi)                        |
 | **UCSC**                            | [UCSC](https://genome.ucsc.edu/)                                              |
