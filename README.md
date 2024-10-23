@@ -21,7 +21,7 @@ ChIP-sequencing, or ChIP-seq, is used to analyze protein interactions with DNA. 
 | **EBI SRA**                         | [EBI SRA](http://www.ebi.ac.uk/arrayexpress/experiments/)                     |
 
 
-## Overview of a bioinformatics workflow that involves downloading sequencing data, performing quality control, aligning reads to a reference genome, and converting SAM files to BAM files.
+### Overview of a bioinformatics workflow that involves downloading sequencing data, performing quality control, aligning reads to a reference genome, and converting SAM files to BAM files.
 
 ### Workflow Summary
 
