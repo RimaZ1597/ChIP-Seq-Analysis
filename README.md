@@ -1,7 +1,7 @@
-# Epigenomicsc- Chip-seq-Analysis
-ChIP-sequencing, or ChIP-seq, is used to analyze protein interactions with DNA. ChIP-seq combines chromatin immunoprecipitation (ChIP) with massively parallel DNA sequencing to identify the binding sites of DNA-associated proteins. The application of next-generation sequencing (NGS) to ChIP has revealed insights into gene regulation events that play a role in various diseases and biological pathways, such as development and cancer progression. ChIP-Seq enables a thorough examination of the interactions between proteins and nucleic acids on a genome-wide scale.
+# Epigenomics- Chip-seq-Analysis
+ChIP-sequencing, or ChIP-seq, is used to analyse protein interactions with DNA. ChIP-seq combines chromatin immunoprecipitation (ChIP) with massively parallel DNA sequencing to identify the binding sites of DNA-associated proteins. The application of next-generation sequencing (NGS) to ChIP has revealed insights into gene regulatory events that play roles in various diseases and biological pathways, such as development and cancer progression. ChIP-Seq enables a thorough examination of the interactions between proteins and nucleic acids on a genome-wide scale.
 
-# Resources Used
+# Tools
 
 | Tool/Resource                       | Command/Link                                                                  |
 |-------------------------------------|-------------------------------------------------------------------------------|
@@ -47,7 +47,7 @@ ChIP-sequencing, or ChIP-seq, is used to analyze protein interactions with DNA. 
    ```
 
 3. **Quality Control with FastQC:**
-   - FastQC is utilized to assess the quality of the sequencing reads. It provides an interactive report on various metrics (like sequence quality, GC content, etc.).
+   - FastQC is utilised to assess the quality of the sequencing reads. It provides an interactive report on various metrics (like sequence quality, GC content, etc.).
    - To run FastQC on the downloaded FastQ files:
 
    ```bash
